@@ -1,5 +1,6 @@
 node 'puppetagent01.devops.com' {
 
-include java::install	
+include java::install
+include ntp
 
 }
