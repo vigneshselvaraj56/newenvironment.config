@@ -21,3 +21,9 @@ mod 'tomcat',
 mod 'java',
 :git => 'https://github.com/vigneshselvaraj56/java.git',
 :branch => 'production'
+mod 'ntp',
+:git => 'https://github.com/vigneshselvaraj56/ntp.git',
+:branch => 'production'
+mod 'stdlib',
+:git => 'https://github.com/vigneshselvaraj56/stdlib.git',
+:branch => 'production'
