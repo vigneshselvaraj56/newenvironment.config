@@ -35,4 +35,5 @@ mod 'profiles',
 :branch => 'production'
 mod 'hieranodes',
 :git => 'https://github.com/vigneshselvaraj56/hieranodes.git',
-:branch => 'production'
+:branch => 'production',
+:install_path => 'hieradata'
