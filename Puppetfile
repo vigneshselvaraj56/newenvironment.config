@@ -27,3 +27,9 @@ mod 'stdlib',
 mod 'ntp',
 :git => 'https://github.com/vigneshselvaraj56/ntp.git',
 :branch => 'production'
+mod 'roles',
+:git => 'https://github.com/vigneshselvaraj56/roles.git',
+:branch => 'production'
+mod 'profiles',
+:git => 'https://github.com/vigneshselvaraj56/profiles.git',
+:branch => 'production'
