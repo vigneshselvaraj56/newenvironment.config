@@ -33,7 +33,7 @@ mod 'roles',
 mod 'profiles',
 :git => 'https://github.com/vigneshselvaraj56/profiles.git',
 :branch => 'production'
-mod 'hieranodes',
-:git => 'https://github.com/vigneshselvaraj56/hieranodes.git',
+mod 'hieradata-nodes',
+:git => 'git@github.com:vigneshselvaraj56/hieradata-nodes.git',
 :branch => 'production',
 :install_path => 'hieradata'
