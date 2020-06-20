@@ -33,3 +33,6 @@ mod 'roles',
 mod 'profiles',
 :git => 'https://github.com/vigneshselvaraj56/profiles.git',
 :branch => 'production'
+mod 'hieranodes',
+:git => 'https://github.com/vigneshselvaraj56/hieranodes.git',
+:branch => 'production'
