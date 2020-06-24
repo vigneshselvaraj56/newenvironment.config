@@ -37,3 +37,6 @@ mod 'hieradata-nodes',
 :git => 'git@github.com:vigneshselvaraj56/hieradata-nodes.git',
 :branch => 'production',
 :install_path => 'hieradata'
+mod 'motd',
+:git => 'https://github.com/vigneshselvaraj56/motd.git',
+:branch => 'production'
